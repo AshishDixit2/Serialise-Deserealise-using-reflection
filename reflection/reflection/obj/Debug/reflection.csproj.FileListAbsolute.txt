@@ -1,0 +1,7 @@
+C:\Users\ashish.dixit\source\repos\reflection\reflection\obj\Debug\reflection.csproj.AssemblyReference.cache
+C:\Users\ashish.dixit\source\repos\reflection\reflection\obj\Debug\reflection.csproj.CoreCompileInputs.cache
+C:\Users\ashish.dixit\source\repos\reflection\reflection\bin\Debug\reflection.exe.config
+C:\Users\ashish.dixit\source\repos\reflection\reflection\bin\Debug\reflection.exe
+C:\Users\ashish.dixit\source\repos\reflection\reflection\bin\Debug\reflection.pdb
+C:\Users\ashish.dixit\source\repos\reflection\reflection\obj\Debug\reflection.exe
+C:\Users\ashish.dixit\source\repos\reflection\reflection\obj\Debug\reflection.pdb
